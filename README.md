@@ -12,7 +12,7 @@
 安装
 克隆本仓库到本地计算机：
 
-git clone https://github.com/your_username/simple-cnn-tutorial.git
+git clone https://github.com/iicedream/pytorch_CNN.git
 进入项目目录：
 
 cd simple-cnn-tutorial
